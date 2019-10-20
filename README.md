@@ -26,12 +26,12 @@ There is also an SGI dial box pinout located at [SGI dial box](https://web.archi
  
 o2 (female) | Dial Box (female)
 ---------   |  ----------
-    1 (DCD) | 8  (DCD)
-    2 (RD)  | 3  (RD)
-    3 (TD)  | 2  (TD)
-    5 (SG)  |   (GND)
-    7 (RTS) | 4 (RTS)
-    8 (CTS) | 5 (CTS)                                   
+1 (DCD) | 8  (DCD)
+2 (RD)  | 3  (RD)
+3 (TD)  | 2  (TD)
+5 (SG)  |   (GND)
+7 (RTS) | 4 (RTS)
+8 (CTS) | 5 (CTS)                                   
 
 Here is an info page that I ak keeping to get this project working.
 -This document is purely for educational purposes, the current images are
